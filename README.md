@@ -1,4 +1,5 @@
-Fitness App
+FlexFiend Fitness App 
+
 This fitness app is designed to help users find exercise routines and workout videos that suit their fitness goals. The app uses the Exercise DB API to search for different types of exercises and the YouTube API to find related workout videos.
 
 Features
@@ -12,6 +13,7 @@ Coming soon
 Save favorite workouts: Users can save their favorite workouts to a favorites list for easy access in the future.
 
 User account: Users can create an account to save their workout history and track their progress over time.
+
 
 How to Use
 To use the fitness app, follow these steps:
@@ -35,7 +37,7 @@ Exercise DB API: A free API that provides information about different types of e
 
 YouTube API: A free API that provides access to YouTube videos and related metadata.
 
-HTML, CSS, and JavaScript: The app's front-end was built using HTML, CSS, and JavaScript.
+React: The app's front-end was built using React.
 
 Node.js: The app's back-end was built using Node.js to handle API requests and user authentication.
 
